@@ -1,4 +1,4 @@
-<h1> Hey there!!! I'm Branden  </h1>
+<h1> Hey There!!! I'm Branden  </h1>
 
 
 
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on software used to help non-profits become efficient for less.
 - 🤔 I’m looking for help with learning C++
 
-- 📫 How to reach me: 
+- 📫 How to reach me: Email or LinkedIn
 - 😄 Pronouns: He/Him
