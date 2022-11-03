@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with learning C++
 
 - 📫 How to reach me: 
-    Email: branden.wayne.jones@gmail.com
-    LinkedIn: www.linkedin.com/in/branden-w-jones
+    - Email: branden.wayne.jones@gmail.com
+    - LinkedIn: www.linkedin.com/in/branden-w-jones
 
 - 😄 Pronouns: He/Him
