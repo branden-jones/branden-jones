@@ -1,5 +1,5 @@
-<h1> Hey There!!! I'm Branden  </h1>
-
+<h1> Hey There!   ...  I'm Branden  </h1>
+![backgroun image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvideohive.net%2Fitem%2Fcircuits-background%2F20810024&psig=AOvVaw0X6Ac4e6Lr_tF_-fGNtKIq&ust=1667584133125000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiqpJDJkvsCFQAAAAAdAAAAABAJ)
 
 
 - 🌱 I’m currently learning advanced Javascript.
@@ -14,4 +14,4 @@
 
 - 😄 Pronouns: He/Him
 
-[https://www.google.com/url?sa=i&url=https%3A%2F%2Fvideohive.net%2Fitem%2Fcircuits-background%2F20810024&psig=AOvVaw0X6Ac4e6Lr_tF_-fGNtKIq&ust=1667584133125000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiqpJDJkvsCFQAAAAAdAAAAABAJ]
+
