@@ -2,9 +2,8 @@
 
 - 🌱 My favorite Software Language is Javascript and Node.js, but im currently learning C#.
 - 💬 Ask me about Harry Potter, Pokemon, or Anime and we will never stop talking.
-- ⚡ Fun fact: My wife and I hiked the Appalachian Trail.
-- 👯 I’m looking to collaborate on software used to help non-profits become efficient for less.
-- 🤔 I’m looking for help with learning C++
+- ⚡ Fun fact: My wife and I hiked the entire Appalachian Trail in 2018.
+- 👯 I’m currently leading development with a group ( Underdog Devs ) to assist aspiring developers who are either formerly incarcerated or from an economically disadvantaged background reach their goal.
 
 - 📫 How to reach me: 
     - Email: branden.wayne.jones@gmail.com
