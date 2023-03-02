@@ -1,6 +1,6 @@
 <h1> Hey There!   ...  I'm Branden  </h1>
 
-- 🌱 I’m currently learning advanced Javascript.
+- 🌱 My favorite Software Language is Javascript and Node.js, but im currently learning C#.
 - 💬 Ask me about Harry Potter, Pokemon, or Anime and we will never stop talking.
 - ⚡ Fun fact: My wife and I hiked the Appalachian Trail.
 - 👯 I’m looking to collaborate on software used to help non-profits become efficient for less.
